@@ -1,9 +1,15 @@
 =begin
+
   Linux terminal copy
+
 *****************************************
+
   Developed by Vance Green and Noah Smith
+
 *****************************************
+
   Please do not use any code without credit
+    
 =end
 
 
