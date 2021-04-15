@@ -1,13 +1,11 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    net-ping (2.0.8)
 
 PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-  net-ping (~> 2.0)
 
 BUNDLED WITH
    2.2.7

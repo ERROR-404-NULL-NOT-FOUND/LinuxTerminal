@@ -1,3 +1,4 @@
+#makes a directory
 def mkdir(name,path)
   begin
     Dir.mkdir(name)
