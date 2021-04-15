@@ -1,5 +1,6 @@
 def echo(string)
   string.each do |i|
-    print string[i] + " "
+    print i + " "
   end
+  puts  ""
 end
