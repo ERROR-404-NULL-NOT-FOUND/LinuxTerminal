@@ -1,7 +1,6 @@
-"Project-management/"
-"Project-management/"
-"testfolder/"
-".bundle/"
+Project-management/
+testfolder/
+.bundle/
 testfolder/test
 Gemfile
 Gemfile.lock
